@@ -8,14 +8,7 @@ You can find the Documentation here:
 
 Author
 -------
-**Max Fechner**
-+ max.fechner@gmail.com
-
-
-
-Twitter account
----------------
-Keep up to date on announcements and more by following start.less from AppGestalt on Twitter, [@AppGestalt](https://twitter.com/AppGestalt).
+**Max Fechner** (max.fechner@gmail.com)
 
 
 
